@@ -7,7 +7,7 @@ $conts = [
     'Asia' => ['Bos javanicus', 'Arctictis binturong', 'Ursus arctos'],
     'Antarctica' => ['Penguin', 'Lobodon carcinophagus'],
 ];
-$two_name = [];
+$two_name = []; 
 $continent = [];
 $one_item = [];
 $two_item = [];
